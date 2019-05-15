@@ -4,3 +4,5 @@ read -p "please enter the username:" username
 echo $username
 read -s -p "please enter the password:" password
 echo "this is stage 3 script to be executed"
+
+useradd -m #username -p $password

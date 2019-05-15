@@ -1,0 +1,2 @@
+#1/bin/bash
+echo "this script is for user account creation"
